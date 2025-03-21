@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eaeaea;
+      }
+
+      .cls-2 {
+        fill: #faad3c;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g id="bUQ3iL">
+        <image id="bUQ3iL-2" data-name="bUQ3iL" width="198" height="216" transform="translate(55.8 -59.6)" xlink:href="star-half-gray-1.png"/>
+      </g>
+      <path class="cls-2" d="M12,.5c-.3,0-.5.1-.6.4l-3.3,6.8-7.5,1.1c-.3,0-.5.2-.5.5,0,.2,0,.5.2.7l5.4,5.3-1.3,7.5c0,.3,0,.5.3.7.1,0,.3.1.4.1s.2,0,.3,0l6.7-3.5V.5s0,0,0,0Z"/>
+      <path class="cls-1" d="M12,.5c.3,0,.5.1.6.4l3.3,6.8,7.5,1.1c.3,0,.5.2.5.5,0,.2,0,.5-.2.7l-5.4,5.3,1.3,7.5c0,.3,0,.5-.3.7-.1,0-.3.1-.4.1s-.2,0-.3,0l-6.7-3.5v-.7s0-.7,0-.7V2.7s0-1.1,0-1.1V.5s0,0,0,0Z"/>
+    </g>
+  </g>
+</svg>
